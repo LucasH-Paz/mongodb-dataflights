@@ -1,4 +1,5 @@
 # DataFlights
+![MongoBd](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 In this project I used MongoDB to manage a database, recovering information, updating, creating and deleting data;
 
 ## Abilities  
@@ -19,5 +20,5 @@ To ensure that the code follows the good practices of code, the ESLint was used 
 
 `npm run lint`
 
-## Used tools ![MongoBd](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+## Used tools
 - [MongoDB](https://docs.mongodb.com/tools/);
