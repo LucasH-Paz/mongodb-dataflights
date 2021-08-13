@@ -19,5 +19,5 @@ To ensure that the code follows the good practices of code, the ESLint was used 
 
 `npm run lint`
 
-## Used tools
+## Used tools ![MongoBd](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 - [MongoDB](https://docs.mongodb.com/tools/);
